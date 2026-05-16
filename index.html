@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travelora website</title>
+</head>
+<body>
+    <h1>Welcome to Travelora.</h1>
+        <!-- Example of absolute link -->
+    <a href="https://Travelora.com">Explore Pakistan with Travelora</a>
+     <!-- Example of realtive link -->
+    <a href="#explore destination.html">Click here to explore</a> 
+    <p><b>Welcome to Travelora — your gateway to exploring Pakistan’s most breathtaking destinations. From peaceful mountains to vibrant cities, we bring you closer to places, cultures, and stories that make every journey unforgettable.</b></p>
+    <p>Explore different cities and cultures with travelora.</p>
+
+    <!-- Image tag -->
+    <img src="c:\Users\Hp\Downloads\Faisal masjid.jpeg" alt="Islamabad Aesthetics"> <p><h2><b>Faisal Mosque — a beautiful symbol of modern Islamic architecture located in Islamabad, Pakistan.</b></h2></p>
+    
+    <img src="c:\Users\Hp\Downloads\THE BADSHAHI MOSQUE IN the sunset.jpeg" alt="Lahore Aesthetics"> <p><h2><b>Badshahi Mosque — a stunning Mughal-era mosque and one of Lahore’s most iconic landmarks.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\Mazar-e-Quaid.jpeg" alt="Karachi Aesthetics"> <p><h2><b>Mazar-e-Quaid — the iconic resting place of Quaid-e-Azam Muhammad Ali Jinnah in Karachi, Pakistan.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\Marine Drive, Gawadar, Balochistan.jpeg" alt="Gwadar Aesthetics"> <p><h2><b>Marine Drive — the scenic coastal boulevard along the Arabian Sea in Gwadar, Balochistan, Pakistan.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\Beautiful Bolan ❤️.jpeg" alt="Bolan Aesthetics"> <p><h2><b>Bolan Pass — where rocky cliffs and winding paths tell the story of ancient journeys across Balochistan, Pakistan.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\Attabad lake, Hunza.jpeg" alt="Hunza Aesthetics"> <p><h2><b>Attabad Lake — where nature’s power and beauty meet in the heart of Gilgit-Baltistan.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\The Khyber Pass.jpeg" alt="Khyber Aesthetics"> <p><h2><b>Bab-e-Khyber — a powerful landmark in Pakistan, representing the historic entrance to the Khyber Pass.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\Faislabad Pakistan.jpeg" alt="Faisalabad Aesthetics"> <p><h2><b>Faisalabad Clock Tower — a historic symbol of Faisalabad, standing at the heart of the city’s vibrant old markets.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\download (7).jpeg" alt="Multan Aesthetics"> <p><h2><b>Tomb of Shah Rukn-e-Alam — where spirituality and history meet in one of Pakistan’s most iconic landmarks.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\Quetta Pakistan.jpeg" alt="Quetta Aesthetics"> <p><h2><b>Quetta — where rugged mountains and cultural heritage come together in the heart of Balochistan.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\Noor Mahal, Bahawalpur, Pakistan_.jpeg" alt="Bahawalpur Aesthetics"> <p><h2><b>Noor Mahal — where timeless architecture and royal charm stand beautifully in the heart of Bahawalpur.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\Sheikhupura, Pakistan.jpeg" alt="Sheikhupura Aesthetics"><p><h2><b>Hiran Minar — where Mughal history and serene landscapes come together in timeless harmony.</b></h2></p>
+
+    <img src="c:\Users\Hp\Downloads\Tomb Ghazi khan in dera Ghazi khan Pakistan.jpeg" alt="Dera Ghazi Khan Aesthetics"><p><h2><b>Tomb of Ghazi Khan — where the legacy of Dera Ghazi Khan’s founder lives through timeless architecture.</b></h2></p>
+</body>
+ <!-- FOOTER -->
+  <footer>
+    <p>© 2026 Travelora | Explore the World</p>
+  </footer>
+</html>
